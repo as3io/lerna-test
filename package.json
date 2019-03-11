@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
-    "packages/*"
+    "sites/*"
   ],
   "devDependencies": {
     "eslint": "^5.15.1",

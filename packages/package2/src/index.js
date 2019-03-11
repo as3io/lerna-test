@@ -1,3 +1,3 @@
 const { log } = console;
 
-log('Hello, world!');
+log('Hello, world!!!!!');

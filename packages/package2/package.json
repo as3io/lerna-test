@@ -1,6 +1,6 @@
 {
   "name": "package2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "author": "Jacob Bare <jacob@limit0.io>",
   "license": "MIT",
